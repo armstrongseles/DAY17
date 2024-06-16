@@ -1,0 +1,21 @@
+
+
+.card img {
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card p {
+    margin: 5px 0;
+  }
+  
+  .card button {
+    margin-top: 10px;
+  }
+  
